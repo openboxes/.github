@@ -1,0 +1,15 @@
+.idea
+.settings
+*.iml
+*.iws
+eclipse
+stacktrace.log
+target
+target-eclipse/
+.classpath
+.settings
+.project
+.DS_Store
+out/
+site/
+build/
