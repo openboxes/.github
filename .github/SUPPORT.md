@@ -27,6 +27,6 @@ When creating a new GitHub issue, be sure to add enough context in the issue des
 
 ## I want to speak with the team directly
 
-Our team actively monitors the [support forums](https://openboxes.uservoice.com/forums/163294-general) for new posts, but if you want to reach us directly for any reason, you can email us at support@openboxes.com.
+Our team actively monitors the [support forums](https://community.openboxes.com/) for new posts, but if you want to reach us directly for any reason, you can email us at support@openboxes.com.
 
 Please also feel free to chat with us directly on [Slack](http://slack-signup.openboxes.com). We're happy to help!
