@@ -1,10 +1,10 @@
 Code of Conduct
 ===
 
-## Standards
-
 > [!IMPORTANT]  
 > If you believe someone is violating the Code of Conduct, we kindly ask that you notify us by sending an email to support@openboxes.com.
+
+## Standards
 
 ### Encouraged Behaviors
 As an OpenBoxes community, we expect all members to:
@@ -53,8 +53,7 @@ Instances of the above behaviors are considered violations of this Code of Condu
 ## Reporting a Violation
 Community members may report Code of Conduct violations to community leaders. Members may report violations whether they happen in public OpenBoxes spaces or in private spaces, such as DMs or emails.
 
-> [!IMPORTANT]  
-> If you believe someone is violating the Code of Conduct, we kindly ask that you notify us by sending an email to support@openboxes.com.
+If you believe someone is violating the Code of Conduct, we kindly ask that you notify us by sending an email to support@openboxes.com.
 
 When a violation has been reported by a community member, community leaders will review the report impartially and take action promptly, ensuring to do so in a way that respects the privacy and security of the reporter. The identity of the reporter should not be revealed unless strictly necessary.
 
@@ -68,6 +67,10 @@ Enforcement of the Code of Conduct is the responsibility of the community leader
 Is up to the discretion of community leaders to determine if an action or behavior has violated the Code of Conduct.
 
 ### Enforcement Actions
+While it is not the responsibility of regular community members to take any official enforcement actions towards Code of Conduct violations, community members are encouraged to be active participants in identifying and respectfully addressing potential inappropriate behavior.
+
+For example, if you see a discussion that is trending towards a potential violation of the Code of Conduct, you could link to specific sections of this document, welcoming everyone involved to find ways to align the discussion with our encouraged behaviors. Or if you feel a need to be more direct, you may consider providing a gentle reminder about any relevant behaviors that may not be in line with the values of the community.
+
 When a community leader has deemed that a Code of Conduct violation has occurred, they will perform one or more of the following corrective actions:
 
 | Action            | Description Of Action                                                                                                                                       | Common Reasons For Taking Action                                                                                                                                                                       |

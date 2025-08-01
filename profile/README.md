@@ -2,7 +2,7 @@
   <a href="https://www.openboxes.com">
     <img src="/assets/logo-full-rounded.png" alt="OpenBoxes logo">
   </a>
-  <h4>A lightweight and open-source inventory and supply chain management system.</h4>
+  <h4>An accessible, open-source inventory and supply chain management system.</h4>
 
   [![User Guide](https://img.shields.io/badge/user%20guide-blue?style=for-the-badge&logo=helpscout&logoColor=white)](https://help.openboxes.com/)
   [![Install Docs](https://img.shields.io/badge/install%20docs-limegreen?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://docs.openboxes.com/en/latest/)
