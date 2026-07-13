@@ -10,7 +10,11 @@ For information on how to contribute, please see our [contributor guide](https:/
 
 This project exists thanks to all the generous people who have contributed their valuable time and effort over the years:
 
-<a href="https://github.com/openboxes/openboxes/graphs/contributors"><img src="https://opencollective.com/openboxes/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/openboxes/openboxes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=openboxes/openboxes" />
+</a>
+
+<hr>
 
 We are incredibly grateful to all the individuals and organizations that [sponsor OpenBoxes with a financial contribution](https://opencollective.com/openboxes/contribute):
 
