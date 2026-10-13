@@ -1,28 +1,5 @@
-# Security Policy
-
-This security policy applies to all public repositories under the [OpenBoxes](https://github.com/openboxes) organization on 
-GitHub.
-
-## Supported Versions
-We provide security updates for the [latest official release](https://github.com/openboxes/openboxes/releases/latest) of OpenBoxes.
-
 ## Reporting a Vulnerability
 
-Please do not create a public GitHub Issue for a security vulnerability, since that would inform potential attackers. 
-Instead, report it responsibly using one of the following channels:
-
-* **Preferred:** Submit a private report through GitHub's 
-  [private vulnerability reporting](https://github.com/openboxes/openboxes/security/advisories/new) form.
-* **Alternative:** Email [support@openboxes.com](mailto:support@openboxes.com).
-
-## Response SLA
-As an open-source project with limited resources, we will do our best to respond to and resolve security issues 
-in a timely manner.
-
-We will attempt to acknowledge reports within 5–10 business days and provide a resolution within 90 days, 
-depending on the severity and complexity. We will also make every effort to publicly disclose all security 
-vulnerabilities as soon as a security update (hotfix) is available.
-
-**Please do not disclose the issue publicly until we’ve had a chance to investigate and provide a fix.**
+If you've uncovered a security vulnerability in the application, instead of creating a public GitHub Issue for it (which would inform potential attackers of the vulnerability), please report it privately using the **Report a vulnerability** button on the affected repository's **Security** tab, or email us at support@openboxes.com with details about the vulnerability.
 
 Thank you for helping make OpenBoxes safer for our users!
